@@ -1,8 +1,20 @@
 <script></script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>
-    Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
-</p>
+<div class="index">
+    <h2>Welcome</h2>
 
-<style></style>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate
+        sint aliquid doloribus in exercitationem laboriosam tempore, aliquam
+        asperiores modi odit, ex error, voluptatem impedit atque quaerat officia
+        inventore cum voluptatibus?
+    </p>
+</div>
+
+<style>
+    .index {
+        text-align: center;
+        display: block;
+        margin: 20px auto;
+    }
+</style>
