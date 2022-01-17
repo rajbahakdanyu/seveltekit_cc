@@ -1,14 +1,19 @@
-<script></script>
+<script>
+</script>
 
 <div class="index">
     <h2>Welcome</h2>
-
     <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate
-        sint aliquid doloribus in exercitationem laboriosam tempore, aliquam
-        asperiores modi odit, ex error, voluptatem impedit atque quaerat officia
-        inventore cum voluptatibus?
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt laborum
+        magnam deleniti recusandae, quis aperiam, architecto neque, voluptatem
+        dicta expedita aut id voluptate omnis consectetur dolore! Quo quae
+        perferendis vel dignissimos quasi illum aperiam dolores, id, laudantium
+        voluptatibus fugiat accusantium impedit velit modi ratione iure qui
+        culpa! Repellendus cupiditate aliquid quam magni. Laudantium, laboriosam
+        quibusdam. Provident, quae incidunt! Aspernatur, vel?
     </p>
+    <a href="/guides">View Guides</a>
+    <a href="/about">About</a>
 </div>
 
 <style>
